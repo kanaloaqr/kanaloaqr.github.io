@@ -505,8 +505,7 @@ header .ham-burger.active span:nth-child(2){
     font-family: 'Open Sans', sans-serif;
 }
 .schedule .content .text img{
-	width: 100%;
-	transform: rotateY(180deg);
+	width: 125%;
 }
 
 .schedule .content .timing .table{
